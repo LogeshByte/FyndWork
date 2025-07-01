@@ -24,7 +24,7 @@ export function GeneralSubmitButtons({text,variant,width,icon}:GeneralSubmitButt
                     <>
                     {icon && <span className="mr-2">{icon}</span>}
                     <span>{text}</span>
-                    </>
+                    </> 
                 )
              }
         </Button>
